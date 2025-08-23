@@ -1,10 +1,9 @@
-# Hi, I'm Raj <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2p0Nm55ZGo5YnRldGt5bzM0b25lOXE1a2Fod2lzcXB2aWV5bDRmeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5Y6dELctbC0LwkFWam/giphy.gif" width="30"/> 
+# Hello!, I'm Raj <img src="https://media2.giphy.com/media/eDfEKRdCdvtpMopxYM/giphy.gif" width="60" height="45" />
  
 ## 📊 Data Analyst | Transforming Data into Business Value  
 
 Welcome to my GitHub!  
-I specialize in **turning raw data into clear insights and actionable strategies**.  
-From building **impactful dashboards** to **automating data workflows**, I help organizations make smarter, data-driven decisions.  
+I specialize in **turning raw data into clear insights and actionable strategies**.  I help organizations make smarter, data-driven decisions.
 
 ✨ Passionate about analytics. Curious about patterns. Driven by insights.  
 
