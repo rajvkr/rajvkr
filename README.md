@@ -63,15 +63,6 @@ From building **impactful dashboards** to **automating data workflows**, I help 
 
 ---
 
-### 📅 GitHub Contribution Heatmap  
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/2E7D32/rajvkr" alt="rajvkr's GitHub contribution graph" style="background-color: transparent;" />
-</p>
-
-
----
-
 ### 📈 GitHub Stats  
 
 <p align="center">
