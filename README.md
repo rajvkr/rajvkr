@@ -39,18 +39,18 @@ I specialize in **turning raw data into clear insights and actionable strategies
 
 ### 📊 What I Do  
 
-- 📈 Build interactive dashboards & reports for data-driven decisions  
-- 🔄 Automate data cleaning, transformation, and reporting processes  
-- 🔍 Analyze complex datasets to identify trends and actionable insights  
-- 🤝 Collaborate with teams to solve real-world business problems  
+- 📈 Build interactive dashboards & reports for data-driven decisions.  
+- 🔄 Automate data cleaning, transformation, and reporting processes.  
+- 🔍 Analyze complex datasets to identify trends and actionable insights.  
+- 🤝 Collaborate with teams to solve real-world business problems.  
 
 ---
 
 ### 🚀 Quick Facts  
 
-- 💡 Passionate about making data meaningful and easy to understand  
-- 📚 Continuously learning new tools & techniques in analytics  
-- 🔎 Love exploring datasets and deriving stories from numbers  
+- 💡 Passionate about making data meaningful and easy to understand.  
+- 📚 Continuously learning new tools & techniques in analytics.  
+- 🔎 Love exploring datasets and deriving stories from numbers.  
 
 ---
 
