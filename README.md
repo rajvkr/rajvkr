@@ -56,9 +56,17 @@ I specialize in **turning raw data into clear insights and actionable strategies
 
 ### 🌐 Let’s Connect  
 
-- [LinkedIn](https://www.linkedin.com/)  
-- [Portfolio](https://www.freelancer.com/u/rajvkr32)  
-- [Email](rajvkr32@gmail.com)  
+<p align="left">
+  <a href="https://www.linkedin.com/in/your-linkedin-id" >
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a> &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.freelancer.com/u/rajvkr32">
+    <img src="https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=freelancer&logoColor=white" />
+  </a> &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:rajvkr32@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
