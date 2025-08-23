@@ -1,10 +1,13 @@
-# Hi there, I'm Raj! 👋  
+# Hi, I'm Raj <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2p0Nm55ZGo5YnRldGt5bzM0b25lOXE1a2Fod2lzcXB2aWV5bDRmeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5Y6dELctbC0LwkFWam/giphy.gif" width="30"/> 
+ 
+## 📊 Data Analyst | Transforming Data into Business Value  
 
-## 👨‍💻 Data Analyst | Turning Data into Actionable Insights  
+Welcome to my GitHub!  
+I specialize in **turning raw data into clear insights and actionable strategies**.  
+From building **impactful dashboards** to **automating data workflows**, I help organizations make smarter, data-driven decisions.  
 
-Welcome to my GitHub! I help businesses make sense of their data by uncovering hidden patterns, creating impactful dashboards, and delivering actionable insights.  
+✨ Passionate about analytics. Curious about patterns. Driven by insights.  
 
----
 
 ### 🛠️ Skills & Tools  
 
@@ -57,6 +60,15 @@ Welcome to my GitHub! I help businesses make sense of their data by uncovering h
 - [LinkedIn](https://www.linkedin.com/)  
 - [Portfolio](https://www.freelancer.com/u/rajvkr32)  
 - [Email](rajvkr32@gmail.com)  
+
+---
+
+### 📅 GitHub Contribution Heatmap  
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/2E7D32/rajvkr" alt="rajvkr's GitHub contribution graph" style="background-color: transparent;" />
+</p>
+
 
 ---
 
