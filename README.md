@@ -57,7 +57,7 @@ I specialize in **turning raw data into clear insights and actionable strategies
 ### 🌐 Let’s Connect  
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/your-linkedin-id" >
+  <a href="https://www.linkedin.com/in/rajvkr/" >
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a> &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.freelancer.com/u/rajvkr32">
