@@ -78,7 +78,7 @@ I specialize in **turning raw data into clear insights and actionable strategies
 </p>  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajvkr&layout=compact&theme=radical" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajvkr&layout=compact&theme=radical" alt="Top Technologies"/>
 </p>  
 
 ---
