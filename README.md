@@ -70,19 +70,6 @@ I specialize in **turning raw data into clear insights and actionable strategies
 
 ---
 
-### 📈 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rajvkr&show_icons=true&theme=radical" alt="Raj's GitHub stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajvkr&theme=radical" alt="GitHub Streak" height="165"/>
-</p>  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajvkr&layout=compact&theme=radical" alt="Top Technologies"/>
-</p>  
-
----
-
 <!--
 **rajvkr/rajvkr** is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
