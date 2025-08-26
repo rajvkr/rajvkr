@@ -54,7 +54,7 @@ I specialize in **turning raw data into clear insights and actionable strategies
 
 ---
 
-## 🏅 Certificates  
+### 🏅 Certificates  
 
 - <img src="Logo/acciojob.webp" alt="Accio Job" width="25"/> **Data Analytics (Power BI, SQL, Excel, Python)** – Accio Job  
 - <img src="Logo/Udemy-Logo.png" alt="Udemy" width="25"/> **Power BI** – Udemy  
