@@ -57,7 +57,7 @@ I specialize in **turning raw data into clear insights and actionable strategies
 ## 🏅 Certificates  
 
 - <img src="Logo/acciojob.webp" alt="Accio Job" width="25"/> **Data Analytics (Power BI, SQL, Excel, Python)** – Accio Job  
-- <img src="Logo/Udemy.png" alt="Udemy" width="25"/> **Power BI** – Udemy  
+- <img src="Logo/Udemy-Logo.png" alt="Udemy" width="25"/> **Power BI** – Udemy  
 - <img src="Logo/nptellg.png" alt="NPTEL" width="25"/> **C Programming** – NPTEL (IIT Kanpur)  
 - <img src="Logo/365_data_science.png" alt="365 Data Science" width="25"/> **Python (Pandas, NumPy)** – 365 Data Science  
 
