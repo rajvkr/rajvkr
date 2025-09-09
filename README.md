@@ -1,4 +1,4 @@
-# Hello! I'm Raj <img src="https://media2.giphy.com/media/eDfEKRdCdvtpMopxYM/giphy.gif" width="60" height="45" />
+# Hello! I'm Raj <img src="https://media2.giphy.com/media/eDfEKRdCdvtpMopxYM/giphy.gif" width="60" height="45" /> 
  
 ## 📊 Data Analyst | Transforming Data into Business Value  
 
