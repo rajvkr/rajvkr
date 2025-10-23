@@ -1,6 +1,6 @@
 # Hello! I'm Raj <img src="https://media2.giphy.com/media/eDfEKRdCdvtpMopxYM/giphy.gif" width="60" height="45" /> 
  
-## 📊 Data Analyst | Transforming Data into Business Value  
+## 📊 Data Analyst | Transforming Data into Business Value
 
 Welcome to my GitHub!  
 I specialize in **turning raw data into clear insights and actionable strategies**.  I help organizations make smarter, data-driven decisions.
