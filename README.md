@@ -5,7 +5,7 @@
 Welcome to my GitHub!  
 I specialize in **turning raw data into clear insights and actionable strategies**.  I help organizations make smarter, data-driven decisions.
 
-✨ Passionate about analytics. Curious about patterns. Driven by insights.  
+✨ Passionate about analytics. Curious about patterns. Driven by insights. 
 
 ---
 ### 🛠️ Skills & Tools 
